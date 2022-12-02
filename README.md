@@ -2,6 +2,7 @@
 This is a doodle application developed in android that allows you to change the brush size, color, erase the canvas, open new canvas and saving the picture in the gallery.
 
 Youtube link for the app: https://youtu.be/ysnVyBuu14I
+
 Top of the canvas you can see open new canvas, brush size option,the eraser, save button, and all the colors in a color pallets.
 
 To change the brush size, you have to click the image of the brush. 3 rectangle will appear, such as large, medium, and small. You have to choose the size.
